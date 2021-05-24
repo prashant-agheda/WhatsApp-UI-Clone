@@ -1,7 +1,7 @@
 # Screenshots of the App
 
 <div>
-  <figure>
+  <figure style="text-align: center;">
     <img src="screenshots/1_Camera.png" alt="Camera Image" width="300" height="500">
     <figcation>Camera Screen</figcaption>
   </figure>

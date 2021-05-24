@@ -4,9 +4,7 @@
   <figure>
     <img src="screenshots/1_Camera.png" alt="Camera Image" width="300" height="500">
     <figcation style="text-align: left;">Camera Screen</figcaption>
-  </figure>
   
-  <figure>
     <img src="screenshots/2_Chats.png" alt="Chats Image" width="300" height="500">
     <figcation>Chats Screen</figcaption>
   </figure>

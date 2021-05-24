@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Camera Image](screenshots/1_Camera.png)
-![Chats Image](screenshots/2_Chats.png)
-![Status Image](screenshots/3_Status.png)
-![Calls Image](screenshots/4_Calls.png)
+<img src="screenshots/1_Camera.png" alt="Camera Image" width="200" height="500">
+<img src="screenshots/2_Chats.png" alt="Chats Image" width="200" height="500">
+<img src="screenshots/3_Status.png" alt="Status Image" width="200" height="500">
+<img src="screenshots/4_Calls.png" alt="Calls Image" width="200" height="500">

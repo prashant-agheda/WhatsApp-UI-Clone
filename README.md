@@ -3,8 +3,8 @@
 ## Screenshots
 
 <div>
-  <img src="screenshots/1_Camera.png" alt="Camera Image" width="200" height="500">
-  <img src="screenshots/2_Chats.png" alt="Chats Image" width="200" height="500">
+  <img src="screenshots/1_Camera.png" alt="Camera Image" width="400" height="500">
+  <img src="screenshots/2_Chats.png" alt="Chats Image" width="300" height="500">
 </div>
 
 <div>

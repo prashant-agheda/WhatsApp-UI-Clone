@@ -4,8 +4,7 @@
   <p>
     <img src="screenshots/1_Camera.png" alt="Camera Image" width="300" height="500">
     Camera Screen
-  </p>
-  <p>
+    
     <img src="screenshots/2_Chats.png" alt="Chats Image" width="300" height="500">
     Chats Screen
   </p>
